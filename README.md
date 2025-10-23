@@ -54,7 +54,7 @@ quiz-dev/
 
 ## 🔗 Link do projeto
 
-[🔗 Acesse o projeto online](https://github.com/MoisesOliveira69/quiz_dev))
+[🔗 Acesse o projeto online](https://moisesoliveira69.github.io/quiz_dev/))
 
 ---
 
